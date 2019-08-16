@@ -1,0 +1,83 @@
+body, div, header, aside, footer{
+
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(245, 94, 94);
+    height: auto;
+    width: auto;
+}
+
+#envoltura{
+    margin: auto;
+    background-color: honeydew;
+    width: 960px;
+    height: 800px;
+
+}
+
+header{
+    background-color: rgb(209, 253, 209);
+    height: 15px;
+
+
+}
+img{
+     height: 200px;
+     width: 300px;
+}
+
+#contenedordecontenido{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: honeydew;
+  padding: 10px;
+  overflow: hidden;
+
+}
+footer{
+    background-color: honeydew;
+    height: 98px;
+}
+iframe{
+    height: 200px;
+    width: 310px;
+}
+
+#articulocontenedor{
+    background-color: honeydew;
+    width: 610px;
+    height: auto;
+    float: left;
+}
+aside{
+    background-color:honeydew;
+    width: 33%;
+    height: auto;
+    float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

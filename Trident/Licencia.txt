@@ -1,0 +1,43 @@
+SISTEMA ADMINISTRATIVO Y CONTABLE
+TRIDENT MILLENNIUM 
+
+
+LICENCIA PARA EL USUARIO FINAL DEL SOFTWARE TRIDENT
+
+
+El PRODUCTO DE SOFTWARE - TRIDENT se encuentra protegido por leyes de derecho de autor y por tratados internacionales sobre derechos de autor, así como por otras leyes y tratados sobre la propiedad intelectual. El PRODUCTO DE SOFTWARE - TRIDENT se concede bajo licencia, no se vende.
+
+1.	CONCESION DE LICENCIA. Este CONTRATO DE LICENCIA DE USUARIO FINAL le otorga los siguientes derechos:
+§	Software de Aplicaciones.  Podrá instalar y usar una copia del PRODUCTO DE SOFTWARE – TRIDENT en un único equipo o PC.
+
+§	Almacenamiento/Uso en red. Podrá también almacenar o instalar una copia del PRODUCTO DE SOFTWARE - TRIDENT en un dispositivo de almacenamiento, tal como un servidor en red,  que se use solo para instalar o ejecutar el PRODUCTO DE SOFTWARE - TRIDENT en sus otros equipos o PCs dentro de una red interna; sin embargo, usted deberá adquirir y dedicar una licencia para cada PC o equipo separado en cuyo dispositivo de almacenamiento instale o ejecute el PRODUCTO DE SOFTWARE - TRIDENT. No podrá compartir o usar simultáneamente en diferentes PCs una licencia para el PRODUCTO DE SOFTWARE - TRIDENT.
+
+§	Paquete de Licencia. Si usted ha adquirido este CONTRATO DE LICENCIA DE USUARIO FINAL en un Paquete de Licencias podrá hacer la cantidad de copias adicionales de la porción del software del PRODUCTO DE SOFTWARE - TRIDENT autorizada en los materiales impresos de este CONTRATO DE LICENCIA DE USUARIO FINAL y podrá usar cada copia de la manera especificada.
+ 
+2.	DESCRIPCION DE OTROS DERECHOS Y LIMITACIONES.
+§	Software de Edición Académica.  Si el PRODUCTO DE SOFTWARE - TRIDENT se identifica como  de “Edición Académica”, usted deberá ser un “Usuario dedicado a la enseñanza calificado” para usar el PRODUCTO DE SOFTWARE - TRIDENT. Si no es un usuario dedicado a la enseñanza calificado, no tendrá ningún derecho bajo este CONTRATO DE LICENCIA DE USUARIO FINAL. Para determinar si usted es un Usuario dedicado a la enseñanza calificado, póngase en contacto con B.C.S. INTERNATIONAL LTDA en la Carrera 62 No. 81-45 Oficina 402 Teléfonos (571)-660 6444 (571)-630 4803 Fax (571)-630 4825 Bogotá – Colombia o con el distribuidor de B.C.S. INTERNATIONAL LTDA que atiende a su ciudad. 
+
+§	Software no para la venta.  Si el PRODUCTO DE SOFTWARE - TRIDENT se encuentra marcado como “No para reventa”, no obstante las otras secciones de este CONTRATO DE LICENCIA DE USUARIO FINAL, no podrá revender, o de otra manera transferir por ningún valor el PRODUCTO DE SOFTWARE - TRIDENT.
+
+§	Limitaciones en materia de ingeniería de reveresa, descompilación y desensamblaje. No podrá utilizar técnicas de ingeniería de reversa, descompilar ni desensamblar el PRODUCTO DE SOFTWARE - TRIDENT, excepto y solo en el caso que tal actividad esté expresamente permitida por  B.C.S. INTERNATIONAL LTDA. 
+
+§	Separación de Componentes. El PRODUCTO DE SOFTWARE - TRIDENT se otorga bajo licencia como un producto único.  Sus partes componentes no pueden separarse para ser usadas en mas de un equipo o PC.
+
+§	Alquiler. No podrá alquilar, arrendar o prestar el PRODUCTO DE SOFTWARE - TRIDENT.
+
+
+
+§	Servicios de Soporte.  B.C.S. INTERNATIONAL LTDA pondrá proporcionalmente los servicios de soporte relacionados con el PRODUCTO DE SOFTWARE - TRIDENT (“Servicios de soporte”). El uso de los servicios de soporte se encuentra regido por las disposiciones y programas de B.C.S. INTERNATIONAL LTDA que se describen en el manual del usuario, en la documentación “en línea” y/o en otros materiales proporcionados por B.C.S. INTERNATIONAL LTDA.  Todo código de software complementario que se proporcione  como parte de los Servicios de soporte será considerado parte del PRODUCTO DE SOFTWARE - TRIDENT y está sujeto a los términos y condiciones de este CONTRATO DE LICENCIA DE USUARIO FINAL. Con respecto a la información técnica que usted proporcione a B.C.S. INTERNATIONAL LTDA como parte de los Servicios  de soporte, B.C.S. INTERNATIONAL LTDA podrá utilizar esa información  con fines comerciales, incluso para soporte del producto y desarrollo. B.C.S. INTERNATIONAL LTDA no utilizará esa información en una manera que lo identifique a usted personalmente.
+
+§	Transferencia del Software.  Todos los derechos otorgados por el presente CONTRATO DE LICENCIA DE USUARIO FINAL solo se pueden transferir de manera permanente con la condición de que no retenga copia alguna, de que transfiera el PRODUCTO DE SOFTWARE - TRIDENT completo (incluyendo todas las partes componentes, los medios y los materiales impresos, cualquier actualización, este CONTRATO DE LICENCIA DE USUARIO FINAL y si corresponde, el Certificado de Autenticidad), y de que el receptor acepte los términos de este CONTRATO DE LICENCIA DE USUARIO FINAL.  Si el PRODUCTO DE SOFTWARE - TRIDENT es una actualización, cualquier transferencia deberá incluir todas las versiones anteriores del PRODUCTO DE SOFTWARE - TRIDENT.
+§	Terminación. Sin perjuicio de cualquier otro derecho, B.C.S. INTERNATIONAL LTDA puede terminar este CONTRATO DE LICENCIA DE USUARIO FINAL si usted no cumple con los términos y condiciones del mismo.  En dicho caso, deberá destruir todas las copias del PRODUCTO DE SOFTWARE - TRIDENT y todos sus componentes.
+
+3.	ACTUALIZACIONES.  Si el PRODUCTO DE SOFTWARE - TRIDENT se encuentra marcado como una actualización, usted deberá tener la licencia correspondiente para usar un producto identificado como de actualización por B.C.S. INTERNATIONAL LTDA a fines de poder usar el PRODUCTO DE SOFTWARE - TRIDENT. Un PRODUCTO DE SOFTWARE - TRIDENT marcado como actualización reemplaza o complementa al producto usado como base para otorgarle la actualización. Usted podrá utilizar el producto actualizado resultante únicamente de acuerdo con los términos de este CONTRATO DE LICENCIA DE USUARIO FINAL. Si el PRODUCTO DE SOFTWARE - TRIDENT es una actualización de un componente  de un paquete de programas de software  del que ha obtenido licencia como un producto individual, el PRODUCTO DE SOFTWARE - TRIDENT podrá usarse y transferirse solo como parte de ese paquete del producto individual y no podrá separarse para usarse en más de un equipo o PC.
+
+4.	DERECHOS DE AUTOR.  La titularidad y derechos de autor con respecto al PRODUCTO DE SOFTWARE - TRIDENT (incluyendo pero no limitándose a imágenes, fotografías, figuras animadas, video, audio, música, texto y “applets” o subprogramas incorporados al PRODUCTO DE SOFTWARE - TRIDENT), los materiales impresos que lo acompañan y cualquier Copia del PRODUCTO DE SOFTWARE - TRIDENT son propiedad de B.C.S. INTERNATIONAL LTDA o de sus proveedores. El PRODUCTO DE SOFTWARE - TRIDENT se encuentra protegido por leyes sobre derechos de autor y por disposiciones de tratados internacionales.  Por consiguiente deberá tratar al PRODUCTO DE SOFTWARE - TRIDENT como cualquier otro material sujeto  a derechos de autor excepto que podrá instalar el PRODUCTO DE SOFTWARE - TRIDENT en un solo equipo o PC siempre que mantenga el original solamente para fines de copia de seguridad (o copia de respaldo) o archivo. No podrá copiar los materiales impresos que acompañan al PRODUCTO DE SOFTWARE - TRIDENT.
+
+5.	SOFTWARE EN MEDIO DUAL.  Es posible que reciba el PRODUCTO DE SOFTWARE - TRIDENT en más de un medio. Independientemente  del tipo o tamaño del medio que reciba, solo podrá usar el medio que sea apropiado para su único equipo o PC.  No podrá usar o instalar el otro medio en otro equipo o PC.  No podrá prestar, alquilar, arrendar o de otra manera transferir el otro medio a otro usuario, excepto como parte de una transferencia permanente (como se dispone arriba) del PRODUCTO DE SOFTWARE - TRIDENT.
+
+6.	Exportación. Este CONTRATO DE LICENCIA DE USUARIO FINAL habilita el empleo del PRODUCTO DE SOFTWARE – TRIDENT solo dentro del territorio colombiano, excepto en los casos que exista previa autorización de B.C.S. INTERNATIONAL LTDA para su uso en otros paises.
+
+

@@ -1,0 +1,6 @@
+D:\Documentos\SharpDevelop Projects\andres\andres\obj\Debug\andres.csprojResolveAssemblyReference.cache
+D:\Documentos\SharpDevelop Projects\andres\andres\bin\Debug\andres.exe.config
+D:\Documentos\SharpDevelop Projects\andres\andres\bin\Debug\andres.exe
+D:\Documentos\SharpDevelop Projects\andres\andres\bin\Debug\andres.pdb
+D:\Documentos\SharpDevelop Projects\andres\andres\obj\Debug\andres.exe
+D:\Documentos\SharpDevelop Projects\andres\andres\obj\Debug\andres.pdb
