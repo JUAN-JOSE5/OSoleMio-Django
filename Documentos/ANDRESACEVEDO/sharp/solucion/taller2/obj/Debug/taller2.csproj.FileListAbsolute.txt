@@ -1,6 +1,0 @@
-D:\Documentos\ANDRESACEVEDO\sharp\solucion\taller2\obj\Debug\taller2.csprojResolveAssemblyReference.cache
-D:\Documentos\ANDRESACEVEDO\sharp\solucion\taller2\bin\Debug\taller2.exe.config
-D:\Documentos\ANDRESACEVEDO\sharp\solucion\taller2\bin\Debug\taller2.exe
-D:\Documentos\ANDRESACEVEDO\sharp\solucion\taller2\bin\Debug\taller2.pdb
-D:\Documentos\ANDRESACEVEDO\sharp\solucion\taller2\obj\Debug\taller2.exe
-D:\Documentos\ANDRESACEVEDO\sharp\solucion\taller2\obj\Debug\taller2.pdb
